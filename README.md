@@ -1,4 +1,4 @@
-### Hi there 👋
+### Soy estudiante de desarrollo de aplicaciones mutiplataforma.
 
 <!--
 **AdrianAtienza23/AdrianAtienza23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
